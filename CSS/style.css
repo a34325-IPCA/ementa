@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(38, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#vinhos{
+    color: red;
+}
+.entradas{
+    color: green;
+}
+.peixe{
+    color: orange;
+}
+h1:hover{
+    color: purple;
+    cursor: pointer;
+}
+h2:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
